@@ -1,0 +1,7 @@
+{
+  "name": "Cidadão Online",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
